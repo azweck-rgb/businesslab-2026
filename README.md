@@ -12,3 +12,6 @@ Standardwerte: Herstellkosten 56,40 €, Selbstkosten 62,04 €, Ergebnis 16,96 
 
 ## Weiterentwicklung
 app.js enthält die Berechnungsfunktion calculate. Bei Releases Cache-Version in sw.js erhöhen. Keine externen Bibliotheken oder Tracking-Dienste.
+
+## Version 1.1
+Alle Dateien wie bei Version 1.0 ins bestehende Repository hochladen. Das App-Symbol und die URL bleiben gleich. Nach Deployment online neu öffnen, gegebenenfalls zweimal schließen und neu öffnen. Modul 01 bleibt erhalten. Modul 02: Standardwerte Stück-DB 15 €, Auftrags-DB 15.000 €, Vollkostenergebnis −10.000 €, zusätzlicher Ergebnisbeitrag 15.000 €, kurzfristige Preisuntergrenze 40 €. Bei 15.000 € zusätzlichen Fixkosten beträgt der Ergebnisbeitrag null. Bei 500 Stück freier Kapazität muss der Engpass geprüft werden. Offline erneut testen.
