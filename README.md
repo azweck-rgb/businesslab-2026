@@ -15,3 +15,6 @@ app.js enthält die Berechnungsfunktion calculate. Bei Releases Cache-Version in
 
 ## Version 1.1
 Alle Dateien wie bei Version 1.0 ins bestehende Repository hochladen. Das App-Symbol und die URL bleiben gleich. Nach Deployment online neu öffnen, gegebenenfalls zweimal schließen und neu öffnen. Modul 01 bleibt erhalten. Modul 02: Standardwerte Stück-DB 15 €, Auftrags-DB 15.000 €, Vollkostenergebnis −10.000 €, zusätzlicher Ergebnisbeitrag 15.000 €, kurzfristige Preisuntergrenze 40 €. Bei 15.000 € zusätzlichen Fixkosten beträgt der Ergebnisbeitrag null. Bei 500 Stück freier Kapazität muss der Engpass geprüft werden. Offline erneut testen.
+
+## Version 1.2
+Vollständiges Update wie zuvor. Modul 03: 79 € Preis, 49 € variable Stückkosten, 30.000 € Monatsfixkosten, 1.200 Stück Absatz, 1.500 Stück Kapazität. Gewinnschwelle 1.000 Stück, Ergebnis 6.000 €, Auslastung 80 %. Preis 49 €: keine Gewinnschwelle. Fixkosten 60.000 €: Schwelle 2.000 Stück, außerhalb der Standardkapazität. Alle Module und Offline-Modus erneut testen.
